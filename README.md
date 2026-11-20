@@ -35,7 +35,7 @@ classification.
 
 VECTORSCAN is a web-based Network Security Assessment and Risk
 Management platform designed to help security teams analyze
-authorized network targets.
+authorized network targets
 
 The platform integrates a React-based security dashboard with a
 FastAPI backend and Nmap to discover network services, identify
